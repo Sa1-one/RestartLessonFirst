@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">RestartLessonFirst</string>
+    <string name="disclaimer">Картинки взяты с pexels.com</string>
+    <string name="menu_one">МЕНЮ</string>
+    <string name="menu_two">ИЗБРАННОЕ</string>
+    <string name="menu_three">ПОСМОТРЕТЬ ПОЗЖЕ</string>
+    <string name="menu_four">ПОДБОРКИ</string>
+    <string name="menu_five">НАСТРОЙКИ</string>
 </resources>
